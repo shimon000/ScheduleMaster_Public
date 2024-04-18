@@ -1,0 +1,13 @@
+ソースファイルにはWPF UIから提供されたテンプレートを使用しているため私が制作したファイルを箇条書きにします
+
+Algorithm\*.cpp
+
+Algorithm\*.h
+
+NewGUI\ViewModels\Pages\GenerateFileViewModel.cs
+
+NewGUI\Views\Pages\GenerateFilePage.xaml
+
+NewGUI\ViewModels\Pages\HowToUseViewModel.cs
+
+NewGUI\Views\Pages\HowToUsepage.xaml
