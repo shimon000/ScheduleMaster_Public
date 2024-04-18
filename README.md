@@ -23,9 +23,10 @@ UI部分にはWPF UIのテンプレートを使用しています。 \
 実験期間の欄に実験開始日と実験終了日を \
 実験時間の欄に一日の実験開始時間と実験終了時間を \
 単位時間の欄に日程表の最小時間単位を入力します。
-![image1](image.png)
+![image1](https://github.com/shimon000/ScheduleMaster_Public/assets/97788241/585fe241-e6d6-47b6-a312-666aef233ac6)
 上記の設定で作成ボタンを押すと\
 以下のようなエクセルファイルが出力されます
-![image2](image2.png)
+
+![image2](https://github.com/shimon000/ScheduleMaster_Public/assets/97788241/68dfc307-b231-48b6-96e5-10215c511755)
 
 実験開始日が含まれた週の初日から、実験終了日が含まれた週の最終日まで描画されます。
